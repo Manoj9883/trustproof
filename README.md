@@ -2,7 +2,7 @@
 A machine learning–powered tool for detecting Sybil wallets based on wallet activity across Ethereum, Base, and Solana chains.
 
 ## 🚀 Objective  
-The goal of TrustProof is to classify wallets as human or Sybil (fake) by analyzing blockchain activity data. This will help crypto projects prevent Sybil attacks, ensure fair airdrop distributions, and maintain the integrity of Web3 ecosystems.
+The goal of TrustProof is to classify wallets as human or Sybil (fake) by analyzing blockchain activity data. This will help crypto projects prevent Sybil attacks, ensure fair airdrop distributions, and maintain the integrity of Web3 ecosystems. LETS SEE
 
 ## 🧠 What Is a Sybil Wallet?  
 A Sybil wallet is typically created by a user pretending to be multiple people in order to manipulate rewards, airdrops, or governance votes. These wallets often follow detectable patterns of behavior.
